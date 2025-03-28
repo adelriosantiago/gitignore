@@ -128,6 +128,9 @@ dist
 # Stores VSCode versions used for testing VSCode extensions
 .vscode-test
 
+# NightwatchJS tests output
+tests_output/
+
 # yarn v2
 .yarn/cache
 .yarn/unplugged
